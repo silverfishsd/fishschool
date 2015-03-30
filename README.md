@@ -1,2 +1,2 @@
 # fishschool
-for git class
+for git class traiing
