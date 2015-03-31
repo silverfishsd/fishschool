@@ -1,2 +1,2 @@
 # fishschool
-for git class traiing
+for git class training
